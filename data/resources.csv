@@ -1,0 +1,12 @@
+資源編號,資源種類,資源價值,X座標,Y座標,初始擁有者
+0,Crude Oil,200,300,285,USA
+1,Gold Mine,150,1500,100,USSR
+2,Silver Mine,350,600,400,England
+3,Iron Mine,50,900,213,USSR
+4,Crude Oil,300,500,590,China
+5,Gold Mine,450,1400,200,USSR
+6,Silver Mine,250,100,200,USA
+7,Iron Mine,90,300,800,Japan
+8,Crude Oil,350,1000,500,USA
+9,Gold Mine,400,60,800,USSR
+10,Silver Mine,180,200,600,USA
